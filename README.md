@@ -1,4 +1,4 @@
-#CRUD + IMAGE UPLOAD WITH EXPRESS, MYSQL, REACT 
+# CRUD + IMAGE UPLOAD WITH EXPRESS, MYSQL, REACT 
 ## BACKEND
 ### npm install
 ### create database on mysql
